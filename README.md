@@ -56,10 +56,9 @@ JavaScript • Angular
 
 ## 📊 GitHub Stats
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohmmadHamza&show_icons=true&theme=radical&cache_seconds=1800)
+![Hamza's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MohmmadHamza&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohmmadHamza&layout=compact&theme=radical&cache_seconds=1800)
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohmmadHamza&layout=compact&theme=radical)
 ---
 
 ## 🏆 Achievements
