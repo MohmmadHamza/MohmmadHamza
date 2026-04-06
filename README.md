@@ -1,8 +1,8 @@
 # Hi 👋 I'm Mohammed Hamza
 
-🚀 Backend Engineer | Python • PHP • Microservices • Cloud
+🚀 Backend Engineer | PHP • Python • Microservices • Cloud
 
-Backend developer with **2+ years of experience** building scalable backend systems and APIs using Python, Laravel, and modern microservice architecture.
+Backend developer with **2+ years of experience** building scalable backend systems and APIs using PHP, Python, Laravel, and modern microservice architecture.
 
 I specialize in **high-performance backend systems, distributed architecture, and cloud integrations**.
 
@@ -21,7 +21,7 @@ I specialize in **high-performance backend systems, distributed architecture, an
 ## 🛠 Tech Stack
 
 ### Backend
-Python • FastAPI • Django • PHP • Laravel • Symfony • Lumen
+PHP • Laravel • Symfony • Lumen • Python • FastAPI • Django • 
 
 ### Architecture
 REST APIs • Microservices • Event Driven Systems • Distributed Systems
